@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231-16
+D DS3231 real time clock module, SOIC-16
+K rtc
+$ENDCMP
+#
+$CMP DS3231-8
+D DS3231 real time clock module, SOIC-16
+K rtc
+$ENDCMP
+#
+#End Doc Library
